@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0EA1B233-FA81-4DAF-B9FE-E52C547CB054</string>
+	<string>163D147E-C2DC-4F7D-8818-D4D7E63BBB34</string>
 	<key>IDESourceControlProjectName</key>
 	<string>araizuma</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9A714B2F-8349-411F-9A6B-009FA07669FC</key>
-		<string>https://github.com/ikamoon/araizuma.git</string>
+		<key>2D4FD11F-BD4C-4A8D-8CD0-60990006834A</key>
+		<string>https://github.com/ikamoon/arai.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>araizuma.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9A714B2F-8349-411F-9A6B-009FA07669FC</key>
+		<key>2D4FD11F-BD4C-4A8D-8CD0-60990006834A</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ikamoon/araizuma.git</string>
+	<string>https://github.com/ikamoon/arai.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9A714B2F-8349-411F-9A6B-009FA07669FC</string>
+	<string>2D4FD11F-BD4C-4A8D-8CD0-60990006834A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9A714B2F-8349-411F-9A6B-009FA07669FC</string>
+			<string>2D4FD11F-BD4C-4A8D-8CD0-60990006834A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>araizuma</string>
+			<string>arai</string>
 		</dict>
 	</array>
 </dict>
